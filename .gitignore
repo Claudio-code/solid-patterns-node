@@ -1,5 +1,6 @@
 dist/
-
+.idea/
+.vscode/
 # Created by https://www.gitignore.io/api/node,intellij,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=node,intellij,visualstudiocode
 
